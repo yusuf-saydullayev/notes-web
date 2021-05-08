@@ -378,7 +378,7 @@ function App() {
             <div className="col-md-12">
               <div className="block">
                 <p>
-                  Copyright &copy; <a href="!#">Themefisher</a>| All right
+                  All right
                   reserved.
                 </p>
               </div>
